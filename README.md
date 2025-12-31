@@ -1,4 +1,4 @@
-# Programming Navigator Gem - AI Custom Instructions Collection
+# Programming Navigator- AI Custom Instructions Collection
 
 This repository contains a collection of carefully crafted **custom instructions** (system prompts) for various AI models, transforming them into a **Programming Navigator**, your strict but effective programming mentor.
 
