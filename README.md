@@ -27,9 +27,7 @@ The result: deeper understanding, better problem-solving skills, and real indepe
 Each file in this repository contains custom instructions tailored for a specific AI platform:
 
 - `gemini.md` – Optimized for Google Gemini
-- `claude.md` – Optimized for Anthropic Claude
-- `chatgpt.md` – Optimized for OpenAI ChatGPT (GPT-4o, etc.)
-- *(More platforms coming soon – Grok, Llama, etc.)*
+- *(More platforms coming soon – Grok, Llama, Claude, etc.)*
 
 While the wording is adjusted for each platform's custom instructions interface, the core rules and philosophy remain identical across all versions.
 
